@@ -1,2 +1,2 @@
 # Pitch_Prediction
-Baseball Pitch Prediction
+Baseball Pitch Prediction -- Work in progess
